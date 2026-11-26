@@ -10,14 +10,17 @@ About
 
 C solutions for PPS Assignment-3, solved and accepted on LeetCode.
 
-Programs
 
-S.No| Problem| File
-1| 704. Binary Search| "1_binary_search.c"
-2| 1480. Running Sum of 1D Array| "2_running_sum.c"
-3| 867. Transpose Matrix| "3_transpose_matrix.c"
-4| 566. Reshape the Matrix| "4_reshape_matrix.c"
-5| 35. Search Insert Position| "5_search_insert_position.c"
+## Programs
+
+| S.No | Problem | File |
+| :--- | :--- | :--- |
+| 1 | 704. Binary Search | [`1_binary_search.c`](1_binary_search.c) |
+| 2 | 1480. Running Sum of 1d Array | [`2_running_sum_of_1d_array.c`](2_running_sum_of_1d_array.c) |
+| 3 | 867. Transpose Matrix | [`3_transpose_matrix.c`](3_transpose_matrix.c) |
+| 4 | 566. Reshape the Matrix | [`4_reshape_the_matrix.c`](4_reshape_the_matrix.c) |
+| 5 | 35. Search Insert Position | [`5_search_insert_position.c`](5_search_insert_position.c) |
+
 
 Language Used
 
